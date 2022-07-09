@@ -1,2 +1,0 @@
-# chis-store
-Online Store
